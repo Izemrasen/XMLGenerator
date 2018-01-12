@@ -1,0 +1,64 @@
+Modelling confidence in railway safety case;Revue;TSF, UTC;18/12/2017;R.WANG; J.GUIOCHET; G.MOTET; W.SCHON;;
+State of the art of network protocol reverse engineering tools ;Revue;TSF, INRIA Rennes;11/12/2017;J.DUCHENE; C.LE GUERNIC; E.ALATA; V.NICOMETTE; M.KAANICHE;
+Tuning permissiveness for active safety monitoring;Rapport;TSF, Uppsala, KTH;05/12/2017;L.MASSON; J.GUIOCHET; H.WAESELYNCK; K.CABRERA CASTILLOS; S.CASSEL; M.TORNGREN
+Outil logiciel HAZOP-UML - Document des cas d'utilisation ;Rapport;IDEA, TSF;07/11/2017;J.M.Larré; K.CABRERA CASTILLOS; J.GUIOCHET;;;
+Reliability enhancement of redundancy management in AFDX networks;Revue;Ecole Montréal, TSF;24/10/2017;M.LI; G.ZHU; Y.SAVARIA; M.LAUER;;
+Experience Report: log mining using natural language processing and application to anomaly detection ;Article_conference;TSF;23/10/2017;C.BERTERO; M.ROY; C.SAUVANAUD; G.TREDAN;;
+Toward an intrusion detection approach for IoT based on radio communications profiling ;Article_conference;TSF;08/09/2017;J.ROUX; E.ALATA; V.NICOMETTE; M.KAANICHE;;
+DYNASCORE: DYNAmic Software COntroller to increase REsource utilization in mixed-critical systems;Revue;INRIA Rennes, TSF;01/09/2017;A.KRITIKAKOU; T.MARTY; M.ROY;;;
+A toolset for mobile systems testing ;Article_conference;TSF;25/08/2017;P.ANDRE; N.RIVIERE; H.WAESELYNCK;;;
+Can robot navigation bugs be found in simulation? An exploratory study ;Article_conference;TSF, RIS;29/07/2017;T.SOTIROPOULOS; H.WAESELYNCK; J.GUIOCHET; F.INGRAND;;
+Load-optimal local fast rerouting for resilient networks ;Article_conference;ABB CRC, Switzerland, TSF, AAU;29/06/2017;Y.A.PIGNOLET; G.TREDAN; S.SCHMID;;;
+L'aspect topologique des recommandations;Article_conference;Technicolor France, TSF;29/05/2017;E.LE MERRER; G.TREDAN;;;;
+Early decision and stopping in synchronous consensus: A predicate-based guided tour;Article_conference;UNAM, TECHNION, IRISA, TSF;19/05/2017;A.CASTANEDA; Y.MOSES; M.RAYNAL; M.ROY;;
+Détection d’attaques DDoS dans les réseaux;Article_conference;TSF;19/05/2017;G.ROUDIERE;;;;;
+Livrable 1.2. Modélisationpréliminaire en cas d'utilisation (UML) du projet ALFS;Rapport;TSF;05/05/2017;K.CABRERA CASTILLOS; J.GUIOCHET;;;;
+Uncovering influence cookbooks : reverse engineering the topological impact in peer ranking services;Article_conference;TSF, Technicolor France;01/03/2017;G.TREDAN; E.LE MERRER;;;;
+Online and scalable unsupervised network anomaly detection method ;Revue;SARA, TSF;01/03/2017;J.DROMARD; G.ROUDIERE; P.OWEZARSKI;;;
+Quantifying interdependent privacy risks with location data ;Revue;EPFL, TSF, University of Texas, Max Planck;01/03/2017;A.M.OLTEANU; K.HUGUENIN; R.SHOKRI; M.HUMBERT; J.P.HUBAUX;
+Architecting resilient computing systems: A component-based approach for adaptive fault tolerance ;Revue;ESOC, TSF;01/02/2017;M.STOICESCU; J.C.FABRE; M.ROY;;;
+SMOF - A Safety MOnitoring Framework for Autonomous Systems;Rapport;TSF, ASTRIUM;31/01/2017;M.MACHIN; J.GUIOCHET; H.WAESELYNCK; J.P.BLANQUART; M.ROY; L.MASSON
+An abstraction model and a comparative analysis of Intel and ARM hardware isolation mechanisms;Article_conference;TSF;22/01/2017;G.AVERLANT; B.MORGAN; E.ALATA; V.NICOMETTE; M.KAANICHE;
+Monitoring et détection d'anomalie par apprentissage dans des infrastructures virtualisées;These_Soutenue;TSF;13/12/2016;C.SAUVANAUD;;;;;
+Chiffrement homomorphe appliqué au retrait d'information privé;These_Soutenue;TSF;13/12/2016;J.BARRIER;;;;;
+XPIR : Private information retrieval for everyone ;Revue;IRIT-ENSEEIHT, TSF, LJK;12/12/2016;C.AGUILAR-MELCHOR; J.BARRIER; L.FOUSSE; M.O.KILLIJIAN;;
+Dependable advanced robots: a survey;Rapport;TSF;12/12/2016;J.GUIOCHET; M.MACHIN; H.WAESELYNCK;;;
+"Protection des systèmes informatiques vis à vis des malveillances :
+un hyperviseur de sécurité assisté par le matériel";These_Soutenue;TSF;06/12/2016;B.MORGAN;;;;;
+Souk: Spatial Observation of hUman Kinetics ;Revue;TSF, IDEA;01/12/2016;M.O.KILLIJIAN; R.PASQUA; M.ROY; G.TREDAN; C.ZANON;
+Meeting points in ridesharing: a privacy-preserving approach;Revue;TSF, UQAM, ROC;01/12/2016;U.M.AIVODJI; S.GAMBS; M.J.HUGUET; M.O.KILLIJIAN;;
+Inférence et modèles de données personnelles : mobilité sociale, proximité spatiale;These_Soutenue;TSF;17/11/2016;R.PASQUA;;;;;
+Algorithme de détection de chute;Rapport;S4M, TSF;18/10/2016;P.ACCO; G.AURIOL;;;;
+An approach for resilient systems analysis;Article_conference;TSF;23/09/2016;W.EXCOFFON; J.C.FABRE; M.LAUER;;;
+SecureRun: cheat-proof and private summaries for location-based activities;Revue;EPFL, TSF, Google, Switzerland;01/08/2016;A.PHAM; K.HUGUENIN; I.BILOGREVIC; I.DACOSTA; J.P.HUBAUX;
+On the privacy implications of location semantics ;Article_conference;EPFL, TSF, Univ. of Waterloo;19/07/2016;B.AGIR; K.HUGUENIN; U.HENGARTNER; J.P.HUBAUX;;
+Location privacy with probabilistic co-location profiles [work in progress] ;Article_conference;EPFL, TSF;10/07/2016;J.P.HUBAUX; K.HUGUENIN; R.PASQUA; A.M.OLTEANU;;
+Anomaly detection in cloud applications: internship report ;Rapport;TSF;01/07/2016;J.ALCARAZ ORTEGA; M.KAANICHE; C.SAUVANAUD;;;
+Adaptive fault tolerance: Is ROS a relevant executive support ?;Article_conference;TSF;28/06/2016;M.AMY;;;;;
+Beyond formal methods for critical interactive systems: dealing with faults at runtime;Article_conference;TSF, IRIT-UPS, Airbus Operations;23/06/2016;C.FAYOLLAS; P.PALANQUE; Y.DELERIS; C.MARTINIE;;
+Optimisation des systèmes;Rapport;TSF;01/06/2016;G.AURIOL;;;;;
+Efficient and transparent Wi-Fi offloading for HTTP(S) POSTs;Revue;TSF, Technicolor France;05/04/2016;K.HUGUENIN; N.LE SCOUARNEC; E.LE MERRER; G.STRAUB;;
+AMORES L1.2 - A Privacy risk assessment methodology for location-based systems ;Rapport;TSF;14/03/2016;J.FRIGINAL; J.GUIOCHET; M.O.KILLIJIAN;;;
+Fault tolerant planning: towards dependable autonomous robots;Rapport;TSF, RIS;11/03/2016;B.LUSSIER; J.GUIOCHET; F.INGRAND; M.O.KILLIJIAN; D.POWELL;
+Towards resilient computing on ROS for embedded applications ;Article_conference;TSF, ESOC;27/01/2016;J.C.FABRE; M.LAUER; M.ROY; M.AMY; W.EXCOFFON; M.STOICESCU
+"Approche d'intégrité bout en bout pour les communications
+dans les systèmes embarqués critiques :
+application aux systèmes de commande de vol d'hélicoptères";These_Soutenue;TSF;13/01/2016;A.ZAMMALI;;;;;
+Engineering adaptive fault-tolerance mechanisms for resilient computing on ROS;Article_conference;TSF, ESOC;07/01/2016;M.LAUER; M.AMY; J.C.FABRE; M.ROY; W.EXCOFFON; M.STOICESCU
+"Multi criteria d""cision making methodology for systems engineering";Revue;ISI, TSF, University of Waterl;01/01/2016;V.SHUKLA; G.AURIOL; K.W.HIPEL;;;
+A machine-learning based approach to privacy-aware information-sharing in mobile social networks;Revue;Google, Switzerland, TSF, EPFL, Wichita State University;01/01/2016;I.BILOGREVIC; K.HUGUENIN; B.AGIR; M.JADLIWALA; M.GAZAKI; J.P.HUBAUX
+Language-based intrusion detection approach for automotive embedded networks;Article_conference;TSF, RENAULT Technocentre;18/11/2015;I.STUDNIA; E.ALATA; V.NICOMETTE; M.KAANICHE; Y.LAAROUCHI;
+Prototype de prévision des défaillances et expérimentations. Tâche 4.2.B;Rapport;TSF;15/10/2015;G.DA SILVA SILVESTRE; C.SAUVANAUD; M.KAANICHE; K.KANOUN;;
+Prototype d'évaluation et d'analyse des applications et systèmes de sécurité du nuage. Tâche 4.4.B;Rapport;TSF;30/09/2015;T.PROBST; E.ALATA; M.KAANICHE; V.NICOMETTE;;
+Resilience assessment: accidental and malicious threats ;Conference;TSF;10/09/2015;M.KAANICHE;;;;;
+Partial updates of AUTOSAR embedded applications - To What Extent? ;Article_conference;TSF, RENAULT Technocentre;09/09/2015;H.MARTORELL; J.C.FABRE; M.LAUER; M.ROY; R.VALENTIN;
+Security of ISP Access Networks: practical experiments ;Article_conference;TSF, Thalès Communicatio;07/09/2015;Y.BACHY; V.NICOMETTE; E.ALATA; M.KAANICHE; J.C.COURREGE;
+The scalability wall in the multicore paradigm;Rapport;TSF, Lodz;25/08/2015;J.H.COLLET; P.ZAJAC; A.NAPIERALSKI; M.JANICKI; M.ZUBERT;
+Protocoles de sécurité pour établir les distances et authentifier la position pour les appareils mobiles.;These_Soutenue;TSF;07/07/2015;M.TRAORE;;;;;
+De-anonymizing genomic databases using phenotypic traits ;Article_conference;EPFL, TSF, Bilkent University;30/06/2015;M.HUMBERT; K.HUGUENIN; J.HUGONOT; E.AYDAY; J.P.HUBAUX;
+Présentation Axe Stratégique systèmes embarqués au LAAS;Conference;TSF;03/06/2015;K.KANOUN;;;;;
+From safety analysis to experimental validation by fault injection - Case of automotive embedded systems;These_Soutenue;TSF;28/05/2015;L.PINTARD;;;;;
+Test languages for in-the-loop avionic tests;Revue;SPHEREA Test & Services, TSF, ONERA/DTIM;01/04/2015;A.GUDUVAN; H.WAESELYNCK; V.WIELS; G.DURRIEU; Y.FUSERO; M.SCHIEBER
+"Analyse et justification de la sécurité de systèmes robotiques en
+interaction physique avec l’humain";These_Soutenue;TSF;17/03/2015;Q.A.DO HOANG;;;;;
+Mapping applications on volatile resource;Revue;Hawaii, TSF, LIP, Lyon;01/02/2015;H.CASANOVA; F.DUFOSSE; Y.ROBERT; F.VIVIEN;;
